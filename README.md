@@ -18,5 +18,5 @@ print ('masukkan 3 bilangan')
 
     print ('')
     
-  ![img] https://raw.githubusercontent.com/arifhanifanudin/Lab.py1/master/program1/Hasil1.PNG
+  ![img](https://raw.githubusercontent.com/arifhanifanudin/Lab.py1/master/program1/Hasil1.PNG)
  
