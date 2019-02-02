@@ -23,5 +23,7 @@ print ('masukkan 3 bilangan')
 
     print ('')
     
+  # Foto hasil
+    
   ![img](https://raw.githubusercontent.com/arifhanifanudin/Lab.py1/master/program1/Hasil1.PNG)
  
