@@ -2,6 +2,10 @@
 
 MENCARI NILAI TERBESAR DARI 3 BILANGAN
 
+# Syntax PYTHON
+
+def pengulangan():
+
 print ('masukkan 3 bilangan')
    
    a=int(input('bilangan a = '))
@@ -22,6 +26,8 @@ print ('masukkan 3 bilangan')
             print (c, 'terbesar')
 
     print ('')
+    
+    pengulangan()
     
   # Foto hasil
     
